@@ -1,17 +1,54 @@
 # Stock Price Prediction using a Recurrent Neural Network (RNN)
 A simple project to demonstrate an application of RNN.
 
-# Project Title
-
-## Stock Price Prediction using RNN
-
 ### Overview
 
 This project utilizes Recurrent Neural Networks (RNN) to predict stock prices based on historical data. The implementation is done in Python using the TensorFlow library.
 
-### Installation
+> **Note**
+> This project assumes the use of an Anaconda or Miniconda environment.
 
-Before running the code, make sure to install the required library using the following command in the command prompt:
+## Prerequisites
+The following libraries are required to run the code. Use the following commands to install the libraries. 
 
-```bash
-pip install yfinance
+### Pandas
+> ### conda
+> 
+> conda install pandas
+>
+> ### or PyPI
+> 
+> pip install pandas
+
+### Yfinance
+> ### PyPI
+> 
+> pip install yfinance
+
+### Numpy
+> ### conda
+> 
+> conda install numpy
+>
+> ### or PyPI
+> 
+> pip install numpy
+
+### TensorFlow
+> ### conda
+> 
+> conda install tensorflow
+>
+> ### or PyPI
+> 
+> pip install tensorflow
+
+### Matplotlib
+> ### conda
+> 
+> conda install matplotlib
+>
+> ### or PyPI
+> 
+> pip install matplotlib
+
